@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FirstHeadJava2017:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FirstHeadJava2017_jar</output-path>
+    <root id="archive" name="FirstHeadJava2017.jar">
+      <element id="module-output" name="FirstHeadJava2017" />
+    </root>
+  </artifact>
+</component>
